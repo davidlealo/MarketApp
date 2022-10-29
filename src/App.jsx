@@ -1,11 +1,11 @@
-
+import Landing from "./pages/Landing"
 
 function App() {
 
 
   return (
     <div >
-      Hola Mundo
+     <Landing />
     </div>
   )
 }
