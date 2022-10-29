@@ -1,11 +1,11 @@
-import Landing from "./pages/Landing"
+import Sinin from './components/Sinin'
 
 function App() {
 
 
   return (
     <div >
-     <Landing />
+      <Sinin />
     </div>
   )
 }
